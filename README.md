@@ -10,7 +10,7 @@ https://notsenpai52013-bit.github.io/Miniblox-All-Skins/SKIN_NAME.png
 
 Example:
 
-https://notsenpai52013-bit.github.io/Miniblox-All-Skins/alicep.png
+https://notsenpai52013-bit.github.io/Miniblox-All-Skins/alice.png
 
 ## Features
 
