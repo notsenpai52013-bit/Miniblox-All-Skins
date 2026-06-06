@@ -13,7 +13,7 @@ https://notsenpai52013-bit.github.io/Miniblox-All-Skins/SKIN_NAME.png
 Example:
 
 ```text
-https://notsenpai52013-bit.github.io/Miniblox-All-Skins/alicep.png
+https://notsenpai52013-bit.github.io/Miniblox-All-Skins/alice.png
 ```
 
 ## Features
@@ -37,7 +37,7 @@ You can use these skin URLs in:
 ### HTML Example
 
 ```html
-<img src="https://notsenpai52013-bit.github.io/Miniblox-All-Skins/alicep.png">
+<img src="https://notsenpai52013-bit.github.io/Miniblox-All-Skins/alice.png">
 ```
 
 ## Contributing
